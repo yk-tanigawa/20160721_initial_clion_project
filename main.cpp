@@ -2,10 +2,12 @@
 using namespace std;
 
 #include "Rect.h"
+#include "201607221_initial_clion_project_Config.h"
 
 static const int i1 = 4;
 
 int main() {
+    std::cout << "version " << VERSION_MAJOR << "." << VERSION_MINOR << std::endl;
 
     const int i = 3;
     Rect r{i, i1};
