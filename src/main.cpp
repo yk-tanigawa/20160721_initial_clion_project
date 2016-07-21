@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include "Rect.h"
+#include "Rect.hpp"
 #include "201607221_initial_clion_project_Config.h"
 
 static const int i1 = 4;

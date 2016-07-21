@@ -5,7 +5,7 @@
 #ifndef INC_201607221_INITIAL_CLION_PROJECT_RECT_H_H
 #define INC_201607221_INITIAL_CLION_PROJECT_RECT_H_H
 
-#include "Shape.h"
+#include "Shape.hpp"
 
 
 class Rect : public Shape

@@ -2,8 +2,8 @@
 // Created by 谷川洋介 on 7/21/16.
 //
 
-#include "Shape.h"
-#include "Rect.h"
+#include "Shape.hpp"
+#include "Rect.hpp"
 
 Rect::Rect(int height, int width) : height(height), width(width) {}
 
