@@ -10,7 +10,7 @@ int main() {
     std::cout << "version " << VERSION_MAJOR << "." << VERSION_MINOR << std::endl;
 
     const int i = 3;
-    Rect r{i, i1};
+    Rect r(i, i1);
     std::cout << r.area() << std::endl;
 
     int p = r.perimeter();
