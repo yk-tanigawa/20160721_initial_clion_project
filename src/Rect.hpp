@@ -1,5 +1,5 @@
 //
-// Created by 谷川洋介 on 7/21/16.
+// Created by Yosuke on 7/21/16.
 //
 
 #ifndef INC_201607221_INITIAL_CLION_PROJECT_RECT_H_H
